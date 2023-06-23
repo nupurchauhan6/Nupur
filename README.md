@@ -1,9 +1,9 @@
 # Hi there, I'm Nupur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="right" src="cover.gif" width = 340 >
-<h4 align="left">I am a Software Developer 👩‍💻 by profession and passion.</h4>
-<h4> I have been working in Software Development Industry for over 2 years, and have been involved in numerous projects ranging from small web applications to large enterprise-level applications.</h4> 
-<h4> Over the years I have gained in-depth knowledge of the Java, Python, and JavaScript programming languages, as well as best practices for developing web applications.</h4>
+<p align="left">I am a Software Developer 👩‍💻 by profession and passion.</p>
+<p> I have been working in Software Development Industry for over 2 years, and have been involved in numerous projects ranging from small web applications to large enterprise-level applications.</p> 
+<p> Over the years I have gained in-depth knowledge of the Java, Python, and JavaScript programming languages, as well as best practices for developing web applications.</p>
 
 
 <h5 align="left">Connect with me:</h5>
