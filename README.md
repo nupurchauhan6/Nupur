@@ -14,5 +14,4 @@
 <a href="https://medium.com/@nupurchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nupurchauhan" height="25" width="35" /></a>
 </p>
 
-#
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=nupurchauhan6&layout=compact&langs_count=3&hide=css,scss,html,php,typescript,less)
