@@ -15,3 +15,20 @@
 </p>
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=nupurchauhan6&layout=compact&langs_count=3&hide=css,scss,html,php,typescript,less)
+
+<h2>Tech Stack / Skills</h2>
+
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask)
+![image](https://img.shields.io/badge/FastAPI-4EA94B?style=for-the-badge&logo=fastapi&logoColor=blue)
+![image](https://img.shields.io/badge/Java-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/Spring-4EA94B?&style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Angular-F80000?style=for-the-badge&logo=angular)
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=sql&logoColor=black)
+
+</div>
