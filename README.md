@@ -1,4 +1,4 @@
-# Hi there, I'm Nupur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> Hi there, I'm Nupur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <img align="right" src="cover.gif" width = 340 >
 <p align="left">I am a Software Developer 👩‍💻 by profession and passion.</p>
@@ -41,7 +41,3 @@
 ![image](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![image](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-
-
-</div>
