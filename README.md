@@ -9,7 +9,7 @@
 <h5>Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/nupurchauhan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nupurchauhan6" height="20" width="30" /></a>
- <a href="https://twitter.com/nupur__chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nupur__chauhan" height="25" width="35" /></a>
+ <a href="https://twitter.com/nupurchauhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nupurchauhan_" height="25" width="35" /></a>
 <a href="https://instagram.com/inupurchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inupurchauhan" height="25" width="35" /></a>
 <a href="https://medium.com/@nupurchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nupurchauhan" height="25" width="35" /></a>
 </p>
