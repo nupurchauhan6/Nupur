@@ -2,7 +2,7 @@
 
 <img align="right" src="cover.gif" width = 340 >
 <p align="left">I am a Software Developer 👩‍💻 by profession and passion.</p>
-<p> I have been working in Software Development Industry for over 2 years, and have been involved in numerous projects ranging from small web applications to large enterprise-level applications.</p> 
+<p> I have been working in Software Development Industry for over 3 years, and have been involved in numerous projects ranging from small web applications to large enterprise-level applications.</p> 
 <p> Over the years I have gained in-depth knowledge of the Java, Python, and JavaScript programming languages, as well as best practices for developing web applications.</p>
 
 
